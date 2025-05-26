@@ -30,6 +30,8 @@ https://github.com/user-attachments/assets/69c8b7d2-ce02-4ef9-a8e8-f871973b838c
 ![screen1](https://github.com/user-attachments/assets/46488ff3-70f6-4da4-b70f-68decca229e6)
 ![Graph2](https://github.com/user-attachments/assets/effef70d-e8d2-48dd-9a0e-c598a4e52bfb)
 ![Graph1](https://github.com/user-attachments/assets/a997c6cc-c4d2-44ab-88d8-cd371fe02b63)
+![Theme1](https://github.com/user-attachments/assets/9527f662-6103-4e52-959f-003d3958dd53)
+![Theme2](https://github.com/user-attachments/assets/2cb2d1bb-61ac-4b5d-8550-1d49c7f2925a)
 ![ButtonUI](https://github.com/user-attachments/assets/b47e1127-3654-4df6-9836-5a8653521ada)
 
 ## 실행 방법
@@ -52,10 +54,6 @@ src/
 └── exercise01/
 └── PendulumWithDashboard.java // 메인 GUI 및 시뮬레이션 실행
 README.md
-
-yaml
-복사
-편집
 
 ## 제작자
 
